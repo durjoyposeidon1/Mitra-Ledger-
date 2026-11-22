@@ -1,0 +1,6 @@
+{
+  "name": "Mitra Business",
+  "description": "Complete Bengali Retail POS, Inventory, Accounting, Cashbook & Multi-Shop SaaS Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
